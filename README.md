@@ -13,6 +13,7 @@ This script takes three numbers as input and determines which one is the largest
 ## Q3.m ##
 
 This code checks whether a given character is a vowel or a consonant.
+
 ![image](https://github.com/user-attachments/assets/89a81622-4547-43d6-917d-317d16be331a)
 
 ## stringFunction.m ##
